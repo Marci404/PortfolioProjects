@@ -22,7 +22,7 @@ table_to_union;
 
 SELECT DISTINCT destination
 FROM 
-(SELECT *
+SELECT *
 FROM dataset_1 d 
 UNION
 SELECT *
